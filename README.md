@@ -1,3 +1,3 @@
 Hello I am Lucas
-- I like html
-- I like video games
+- I know some html
+- I am learning C#
